@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adriano-Cardozo
 - 👀 I’m interested in first stage
-- - 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning Python and C#
 - 💞️ I always try to collaborate.
 - 📫 How to reach me: avcadriano@hotmail.com
 
