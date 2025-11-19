@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Adriano-Cardozo
-- 👀 I’m interested in first stage
-- 🌱 I’m currently learning Python and C#
-- 💞️ I always try to collaborate.
-- 📫 How to reach me: avcadriano@hotmail.com
+- 👀 I’m starting a developer career
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: @adriano_cardozo_
 
 <!---
 Adriano-Cardozo/Adriano-Cardozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
